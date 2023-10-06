@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoRoomDataBaseHilt</string>
+    <string name="label_add_data_room">ADD DATA ROOM</string>
+    <string name="label_local_storage">Local Storage</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_phone_number">Phone Number</string>
+    <string name="label_save_data">Save Data</string>
+</resources>
